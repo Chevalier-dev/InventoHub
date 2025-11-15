@@ -4,12 +4,11 @@ InventoHub is a full-stack product management application that allows you to cre
 
 About This Project
 
-✨ Tech Stack: Leveraging React.js, Node.js, Express.js, MongoDB, and Chakra UI for a modern, full-stack experience
-🚀 Robust REST API: Seamlessly manage products with a well-structured and scalable backend
-🎨 Intuitive & Responsive UI: Built with React and Chakra UI to ensure smooth user interactions across all devices
-🛡️ Comprehensive Error Handling: Graceful handling of client and server errors to enhance reliability and user trust
-🌍 Production-Ready Deployment: Optimized for easy deployment with environment configuration and build scripts
-Setup
+-   ✨ Tech Stack: Leveraging React.js, Node.js, Express.js, MongoDB, and Chakra UI for a modern, full-stack experience
+-   🚀 Robust REST API: Seamlessly manage products with a well-structured and scalable backend
+-   🎨 Intuitive & Responsive UI: Built with React and Chakra UI to ensure smooth user interactions across all devices
+-   🛡️ Comprehensive Error Handling: Graceful handling of client and server errors to enhance reliability and user trus
+-   🌍 Production-Ready Deployment: Optimized for easy deployment with environment configuration and build scripts
 
 ### Setup .env file
 
